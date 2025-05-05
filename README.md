@@ -12,6 +12,7 @@ Reporting: Microsoft Report Builder
 ORM: Entity Framework Core
 
 Project Setup & Running Instructions
+
 📌 1. Database Setup
 Open SQL Server Management Studio.
 
